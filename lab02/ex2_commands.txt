@@ -3,3 +3,24 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+start
+n
+n
+n
+n
+s
+s
+print password
+fin
+n
+s
+n
+n
+n
+n
+n
+n
+n
+print lower && length && name && upper && number
+print length
+q
